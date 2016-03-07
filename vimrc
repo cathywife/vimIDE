@@ -443,7 +443,7 @@ Bundle 'jnurmine/Zenburn'
 Bundle 'scrooloose/nerdtree'
 Bundle 'Lokaltog/powerline'
 Bundle 'git://github.com/wincent/command-t.git'
-Bundle 'Valloric/YouCompleteMe'  
+"Bundle 'Valloric/YouCompleteMe'  
 "Bundle 'FredKSchott/CoVim'
 "Bundle 'djangojump'
 " ...

@@ -44,12 +44,10 @@ cp -rf markdown.pl/ ~/.vim/
 cp -rf tips.md/ ~/.vim/
 
 echo  "install plugin..."
-echo  "Wait for minutes please...and YouCompleteMe have a error. don't worry,just press enter!" >setuplog
-echo  "请稍候，在安装YouCompleteMe时会产一个错误，请忽略。直接按回车键即可">>setuplog
+echo  "Wait for minutes please..." >setuplog
+echo  "请稍候......">>setuplog
 vim  setuplog -c "PluginInstall" -c "q" -c "q" 
 rm -rf setuplog
-cd ~/.vim/bundle/YouCompleteMe
-./install.sh 
 
 echo "Congratulations!"
 
