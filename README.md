@@ -5,8 +5,7 @@ vimIDE
 ### 前言
 ____
 
-##### vimIDE是一个把vim扩展成IDE的脚本 <br>
-##### vimrc 第446行,熟悉的用户可取消注释自行安装YouCompleteMe
+##### vimIDE 带有python语法提示 <br>
 ##### 脚本参考自ma6174  <br>
 
 ### 安装
