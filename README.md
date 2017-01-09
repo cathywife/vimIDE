@@ -20,7 +20,7 @@ ____
 
 ----
 >1.安装截图<br>
-![](https://github.com/ymc023/vimIDE/blob/master/screenshot/1.jpg)
+![](https://github.com/ymc023/vimIDE/blob/master/screenshot/1.jpg)<br>
 >2.使用截图<br>
 ![](https://github.com/ymc023/vimIDE/blob/master/screenshot/2.jpg)
 
