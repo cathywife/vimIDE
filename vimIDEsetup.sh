@@ -40,8 +40,7 @@ cp -rf colors/ ~/.vim/
 cp -rf doc/ ~/.vim/
 cp -rf ftplugin/ ~/.vim/
 cp -rf snippets/ ~/.vim/
-cp -rf markdown.pl/ ~/.vim/
-cp -rf tips.md/ ~/.vim/
+cp -rf markdown.pl ~/.vim/
 
 echo  "install plugin..."
 echo  "Wait for minutes please..." >setuplog
@@ -49,5 +48,5 @@ echo  "请稍候......">>setuplog
 vim  setuplog -c "PluginInstall" -c "q" -c "q" 
 rm -rf setuplog
 
-echo "Congratulations!"
+echo "OK.Congratulations!"
 
