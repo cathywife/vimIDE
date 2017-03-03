@@ -147,7 +147,7 @@ func FormartSrc()
 endfunc
 "结束定义FormartSrc
 
-imap <C-f> if__name__ == '__main__': <CR>
+imap <C-f> if __name__ == '__main__': <CR>
 
 
 
